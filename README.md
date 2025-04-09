@@ -1,6 +1,6 @@
 # Atividade 5: Polimorfismo em POO
 
-Repositório para a **Atividade 2 da disciplina de Programação Orientada a Objetos** da Faculdade Facimp Wyden.
+Repositório para a **Atividade 5 da disciplina de Programação Orientada a Objetos** da Faculdade Facimp Wyden.
 
 ---
 
